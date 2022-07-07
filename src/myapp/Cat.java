@@ -1,5 +1,5 @@
 package myapp;
 
-public class Cat {
+public class Cat extends Animal{
     private int age;
 }
