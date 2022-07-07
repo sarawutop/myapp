@@ -1,5 +1,5 @@
 package myapp;
 
-public class Cat {
+public class Cat implements Animal{
     private int age;
 }
